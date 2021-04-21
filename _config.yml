@@ -1,6 +1,6 @@
 # Site settings
-title_left    : "Think"
-title_right   : "space" # default: ""
+title_left    : "Lukas "
+title_right   : "Gehrke" # default: ""
 description   : "Minimalist Jekyll theme for technical writing blog."
 keywords      : "Jekyll, theme, free, download, SEO, blog, web, minimalist, thinkspace"
 url           : https://heiswayi.github.io/thinkspace # site url
@@ -28,7 +28,9 @@ sass:
 
 # Author settings
 author:
-  name     : "John Doe"
+  name     : "Lukas Gehrke"
+  url      : "https://lugenat.github.io"
+  title    : "Lukas Gehrke"
 
 plugins:
   - jekyll-sitemap
@@ -41,6 +43,11 @@ navbar:
     title: About
   - slug : blog
     title: Blog
+  - slug : imprint
+    title: Imprint
+
+github:
+  profile: 'https://github.com/lugenat'
 
 exclude:
   - "gulp"
