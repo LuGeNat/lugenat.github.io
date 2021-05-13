@@ -6,14 +6,14 @@ categories:
 excerpt_separator: <!--more-->
 ---
 
-In order to have some fun with Python, today I implemented the Soundex algorithm from scratch.
+Today I did some really funny Python coding as I implemented the Soundex algorithm from scratch.
 
 It is used for indexing or encoding names by how they sound. This is really cool, because often the same name is spelled differently such as 'Kristina' and 'Christina'.
-This can be a pain in the neck if when linking records from multiple data sources and trying to find records representing the same real world entity (e.g. person).
+This can be a pain in the neck when linking records from multiple data sources and trying to find records representing the same real world entity (e.g. person).
 
-The Algorithm helps with different spellings of the same name and encodes 'Lucas Gerke' and 'Lukas Gehrke' both as 'l200 g620'!
+The Algorithm helps with different spellings of the same name and encodes 'Lucas Gerke' and 'Lukas Gehrke' both as 'l200 g620'. Nice, they should use that in the cafes for the correct spelling on coffee to-go cups..
 
-Check the algorithm out and encode your own name! (Oh and sorry if your name is abort)
+Check out the algorithm and encode your own name! (Oh and sorry if your name is abort)
 
 ```
 #!/usr/bin/env python3
