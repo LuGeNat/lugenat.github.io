@@ -19,4 +19,4 @@ This page is my personal homepage. You can find my other web presence here:
 * [LinkedIn](https://www.linkedin.com/in/lukas-gehrke-995a0618b/)
 * [Xing](https://www.xing.com/profile/Lukas_Gehrke2/cv)
 
-Write me an email if you like at [lukas.gehrke@mailbox.org](mailto:lukas.gehrke@mailbox.org)
+Write me an email if you like at [lukas.gehrke@t-online.de](mailto:lukas.gehrke@t-online.de)

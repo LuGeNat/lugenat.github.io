@@ -10,16 +10,9 @@ permalink: /imprint/
 
 Lukas Gehrke
 
-Arndtstraße 30 b
-
-04275 Leipzig
-
-
 ## Kontakt
 
-Telefon: 01604573699
-
-E-Mail: lukas.gehrke@mailbox.org
+E-Mail: lukas.gehrke@t-online.de
 
 
 ### Haftung für Inhalte
